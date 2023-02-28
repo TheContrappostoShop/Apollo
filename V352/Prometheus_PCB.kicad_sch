@@ -1,0 +1,73 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e45fcfed-f0fa-4774-a755-a370fc083a7b)
+
+  (paper "A4")
+
+  (title_block
+    (title "Prometheus mSLA Apollo Schematics")
+    (date "2022-11-11")
+    (rev "R4")
+    (company "TheContrappostoShop")
+    (comment 1 "Paul S. and Sam B.")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 113.03 15.24) (size 97.79 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7b914471-3d1b-40f6-8fee-092f137ff2e0)
+    (property "Sheetname" "PSU" (at 113.03 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PSU.kicad_sch" (at 113.03 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Prometheus_PCB"
+        (path "/e45fcfed-f0fa-4774-a755-a370fc083a7b" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 12.7 67.31) (size 97.79 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9a845115-1467-49c7-ad7c-532a0c72dca9)
+    (property "Sheetname" "Outputs" (at 12.7 66.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Outputs.kicad_sch" (at 12.7 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Prometheus_PCB"
+        (path "/e45fcfed-f0fa-4774-a755-a370fc083a7b" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 12.7 15.24) (size 97.79 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d1e6e2eb-7008-4676-a994-18bb57665d3b)
+    (property "Sheetname" "MCU" (at 12.7 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 12.7 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Prometheus_PCB"
+        (path "/e45fcfed-f0fa-4774-a755-a370fc083a7b" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

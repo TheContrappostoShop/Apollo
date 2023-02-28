@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Prometheus")(type "KiCad")(uri "${KIPRJMOD}/Prometheus.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+)
