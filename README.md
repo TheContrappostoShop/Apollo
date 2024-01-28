@@ -18,7 +18,7 @@ Proudly designed by Sam B. and Paul S.
 <br>
 (sam.boutin and Paul_GD)
 
-**Please note: the Prometheus drawing by Sam is protected under copyright law and not covered under the open-source licensing. Only TheContrappostoShop may distribute the Apollo board with the artwork.**
+**Please note: the Prometheus drawing by Sam is protected under copyright law and not covered under the open-source licensing. Only TheContrappostoShop and Authorized Vendors may distribute the Apollo board with the artwork.**
 
 If you want to purchase an Apollo board and support the project for further development, please visit our [store](https://contrapposto.shop/products/the-prometheus-msla-motherboard-apollo)!
 
