@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Prometheus")(type "KiCad")(uri "${KIPRJMOD}/Prometheus.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040/RP2040.pretty")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "${KIPRJMOD}/WS2812B")(options "")(descr ""))
+)
